@@ -1,6 +1,6 @@
 import { Navbar } from "@/components/sections/navbar";
 import { Hero } from "@/components/sections/hero";
-import { About } from "@/components/sections/about";
+import { About } from "@/components/sections/about";  
 import { Experience } from "@/components/sections/experience";
 import { FeaturedProject } from "@/components/sections/featured-project";
 import { Projects } from "@/components/sections/projects";
